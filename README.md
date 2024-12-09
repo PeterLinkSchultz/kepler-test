@@ -1,4 +1,4 @@
 # kepler-test
 
-- to start frontend: ionic server
+- to start frontend: ionic serve
 - to start backend: npm run backend
